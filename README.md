@@ -26,7 +26,7 @@ This project is a dynamic Excel dashboard created to analyze the sales and perfo
 
 ## 🔧 How to Use
 
-1. Download the < a href= "https://github.com/Gopaljha1804/Coffee-Outlet-Excel-Dashboard/blob/main/Coffee%20Shop%20dashboard.xlsx"> Dashboard file </a>.
+1. Download the < a href= "https://github.com/Gopaljha1804/Coffee-Outlet-Excel-Dashboard/blob/main/Coffee%20Shop%20dashboard.xlsx", Download > Dashboard file </a>.
 2. Open with Microsoft Excel.
 3. Use the slicers and filters to explore data.
 4. Customize or input your own data if needed.
