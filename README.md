@@ -2,7 +2,7 @@
 
 This project is a dynamic Excel dashboard created to analyze the sales and performance of a coffee outlet. It offers visual insights using charts, pivot tables, and conditional formatting to track various KPIs like revenue, quantity sold, and popular products.
 
-![Dashboard Image](https://github.com/user-attachments/assets/f9e4f9af-5745-4037-b655-5a0c7145ec72)
+![Dashboard Image] (https://github.com/user-attachments/assets/f9e4f9af-5745-4037-b655-5a0c7145ec72)
 
 ---
 
@@ -37,8 +37,8 @@ This project is a dynamic Excel dashboard created to analyze the sales and perfo
 
 | File | Description |
 |------|-------------|
-| `coffee_dashboard.xlsx` | Main dashboard file |
-| `dashboard_preview.png` | Screenshot of the dashboard |
+| `Coffee Shop dashboard.xlsx` | Main dashboard file |
+| `Dashboard Image.png` | Screenshot of the dashboard |
 
 ---
 
